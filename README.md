@@ -1,5 +1,7 @@
 # Sporty Shoes - SimpliLearn Phase 3 Assessment
 
+# Vivek Kumar
+
 ## Technologies Used
 
 | Java | 1.8 |
